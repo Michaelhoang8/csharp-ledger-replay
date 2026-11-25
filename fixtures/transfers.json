@@ -1,0 +1,5 @@
+[
+  {"id":"a","from":"cash","to":"merchant","cents":1250},
+  {"id":"b","from":"merchant","to":"fees","cents":350},
+  {"id":"a","from":"cash","to":"merchant","cents":1250}
+]
